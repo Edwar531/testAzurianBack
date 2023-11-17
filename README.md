@@ -1,8 +1,8 @@
 # Instrucciones despliegue en hosting
-Ejecutar deste el terminal en la carpeta principal el comando "npm install"  
+Ejecutar deste el terminal en la carpeta principal el comando "npm install".  
 Editar en el archivo .env los valores "DB_DATABASE DB_USERNAME DB_PASSWORD" con respecto a la base de datos a utilizar.
-Crear la base de datos e importar el archivo test_azurian.sql ubicado en la carpeta principal
-Subir la carpeta al dominio deseado, para comprobar que funciona correctamente ingresar a https://dominio.com/public/api/prueba
+Crear la base de datos e importar el archivo test_azurian.sql ubicado en la carpeta principal.
+Subir la carpeta al dominio deseado, para comprobar que funciona correctamente ingresar a https://dominio.com/public/api/prueba.
 Realizar el resto de pruebas desde el frontend "testAzurianFront" repositorio: https://github.com/Edwar531/testAzurianFront.git
 
 # Instrucciones despliegue local
